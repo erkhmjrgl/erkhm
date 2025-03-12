@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What player is this",
+    "image": "https://raw.githubusercontent.com/your-username/repository-name/main/image1.jpg",
+    "options": ["Senzu", "910", "Mzinho", "donk"],
+    "correctAnswer": "Senzu"
+  },
+  {
+    "question": "What map is this",
+    "image": "https://raw.githubusercontent.com/your-username/repository-name/main/image2.jpg",
+    "options": ["JMirage", "Nuke", "Vertigo", "Ancient"],
+    "correctAnswer": "Nuke"
+  },
+  {
+    "question": "What team is this",
+    "image": "https://raw.githubusercontent.com/your-username/repository-name/main/image3.jpg",
+    "options": ["Mongolz", "G2", "Faze", "Herioc"],
+    "correctAnswer": "Faze"
+  },
+  {
+    "question": "What gun is this",
+    "image": "https://raw.githubusercontent.com/your-username/repository-name/main/image4.jpg",
+    "options": ["Desert Eagle", "AWP", "M4", "Aug"],
+    "correctAnswer": "M4"
+  },
+  {
+    "question": "What player is this",
+    "image": "https://raw.githubusercontent.com/your-username/repository-name/main/image5.jpg",
+    "options": ["Donk", "M0nesy", "S1mple", "910"],
+    "correctAnswer": "S1mple"
+  }
+]
